@@ -1,0 +1,1 @@
+pushapp,com.xuetangx.tv,51827,http://lqcdn.dangbei.net/wb/xuetangdb-1.1.2.apk
