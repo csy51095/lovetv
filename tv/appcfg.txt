@@ -1,1 +1,2 @@
-pushapp,com.xuetangx.tv,51827,http://lqcdn.dangbei.net/wb/xuetangdb-1.1.2.apk
+com.cibn.tv,http://lqcdn.dangbei.net/wb/yk3-5.0.11-dangbei.apk
+com.starcor.mango,http://lqcdn.dangbei.net/lq/mg-4.16.106-wanmei.apk
