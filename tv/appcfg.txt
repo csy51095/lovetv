@@ -1,3 +1,0 @@
-com.cibn.tv,http://lqcdn.dangbei.net/wb/yk3-5.1.1-wanmei.apk
-com.starcor.mango,http://lqcdn.dangbei.net/lq/mg-5.0.44-wanmei.apk
-com.ktcp.video,http://lqcdn.dangbei.net/wb/tx11076wanmei-2.3.1.1011.apk
