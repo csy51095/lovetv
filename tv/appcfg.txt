@@ -2,6 +2,3 @@ pltv-http://120.87.4.70/PLTV/88888894/224/%s/1.m3u8
 iptv-http://120.87.4.70/
 mg1-http://www.anchoredinversion.com/tv/ds/wasu10.php?id=%s
 mg3-http://tll888.w56.youdns.net/migu.php?id=%s
-mg6-http://tll888.w56.youdns.net/bst/bst.php?id=%s
-mg4-http://tll888.w56.youdns.net/migu/cmv.php?id=%s
-mg5-http://tll888.w56.youdns.net/v/migu.php?id=%s
