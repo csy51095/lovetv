@@ -1,5 +1,4 @@
 pltv-http://120.87.4.6/PLTV/88888894/224/%s/1.m3u8
-iptv-http://120.87.4.6/
 mg1-http://api_p.tll888.com/v/shyd.php?id=%s
 mg2-http://api_p.tll888.com/migu.php?id=%s
-mg3-http://api_p.tll888.com/migu.php?id=%s
+mg3-http://api_p.tll888.com/v/migu.php?id=%s
