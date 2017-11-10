@@ -1,4 +1,4 @@
-mg1-http://api_p.tll888.com/v/migu.php?id=%s
+mg1-http://www.radio366.com/tv/images/cm/%s.m3u8
 mg2-http://api_p.tll888.com/migu.php?id=%s
 mg3-http://api_p.tll888.com/v/migu.php?id=%s
 pltv-http://ottcn.8686c.com/PLTV/88888888/224/%s/index.m3u8
