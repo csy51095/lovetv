@@ -1,1 +1,0 @@
-com.tv.kuaisou,http://app.znds.com/update/fixedaddress/kuaisou_xiaobai.apk
