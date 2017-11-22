@@ -1,7 +1,8 @@
 mg1-http://www.radio366.com/tv/images/cm/%s.m3u8
 mg2-http://api_p.tll888.com/migu.php?id=%s
 mg3-http://api_p.tll888.com/v/migu.php?id=%s
-pltv-http://ottcn.8686c.com/PLTV/88888888/224/%s/index.m3u8
+pltv-http://183.251.61.207/PLTV/88888888/224/%s/index.m3u8
+pltv1-http://183.252.176.10/PLTV/88888888/224/%s/index.m3u8
 ybs-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/%s/1.m3u8
 gitv-http://122.96.52.11:8080/gitv_live/%s.m3u8
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
@@ -13,6 +14,7 @@ sh-http://gslb.tv.sohu.com/live?cid=%s&ver=seg&type=hls&prot=1
 pptvm-http://shenhu.live.pptv.com:80/live/5/45/%s.m3u8?type=web.cloudplay
 rdtv-http://www.radio366.com/tv/%s
 mgvod-http://rotation.vod.zlive.cc/channel/%s.m3u8
+hdtv-http://httpdvb.slave.bfgd.com.cn:13164/playurl?accesstoken=R58AE382CU3EC04B25KB2D36FAFM33E062EW3915890&programid=%s&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1
 qqg-http://aizhibo.%s.live.readtv.cn/ghs.m3u8
 jyg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 fsg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
