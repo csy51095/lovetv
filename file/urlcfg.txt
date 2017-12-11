@@ -8,7 +8,7 @@ ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
 fj-http://livechina.cntv.wscdns.com:8000/live/flv/%s
 js-http://live.dispatcher.gitv.cn/gitv_live/%s.m3u8?p=GITV&area=JS_CUCC
 letv1-http://live.gslb.letv.com/gslb?tag=live&ext=m3u8&sign=live_tv&platid=10&format=letv&expect=3&stream_id=%s
-qq-http://info.zb.qq.com/?cnlid=%s&host=qq.com&cmd=2&qq=0&guid=63929914d4368f22d74e018d9243241d&txvjsv=2.0&stream=2&debug=&ip=&system=2&sdtfrom=313
+qqtv-http://info.zb.qq.com/?cnlid=%s&host=qq.com&cmd=2&qq=0&guid=63929914d4368f22d74e018d9243241d&txvjsv=2.0&stream=2&debug=&ip=&system=2&sdtfrom=313
 sh-http://gslb.tv.sohu.com/live?cid=%s&ver=seg&type=hls&prot=1
 pptvm-http://shenhu.live.pptv.com:80/live/5/45/%s.m3u8?type=web.cloudplay
 rdtv-http://www.radio366.com/tv/%s
@@ -19,4 +19,4 @@ jyg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 fsg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 klg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 ugw-http://net.%s.live.17ugo.com/ugo.m3u8
-playtypes-pa://,letv://,cntv://,bstv://,ggxk://,p2p,su://,pplive://,pplive2://,dsj://,hunantv://,migu2://,migu://,migu3://,migu4://,migu5://,migu6://,telecom://,cbgtv://,nbtv://,habctv://,cztv://,grtv://,ksz://,sxrtv://,nmtv://,sjztv://,jntv://,r2048tv://,sohu://,yitv://,kknews://,zjtv://,hifuntv://,jspc://,kds,ahtv://,haoqu://,mgtv://,hntv://,bjtv://,fjtv://,sctv://,sctv2://,gxtv://,gxtv2://,hubtv://,nntv://,youtu://,jlntv://,wasu://,jxntv://,yctv://,hztv://,dltv://,cstv://,wxtv://,whtv://,hktv://,cdtv://,lztv://,qqhr://,fztv://,kmtv://,nctv://,gstv://,nxtv://,myntv://,xwlive://,bisai8://,hrbtv://,hrbtv2://,yntv://,xmtv://,tvmcloud://,lntv://,tjiptv://,iqiyilb://,mgtvlb://,hfbtv://,snrtv://,gzstv://,iptv://
+playtypes-pa://,letv://,cntv://,ali://,cnc://,dn://,qq://,bstv://,ggxk://,p2p,su://,pplive://,pplive2://,dsj://,hunantv://,migu2://,migu://,migu3://,migu4://,migu5://,migu6://,telecom://,cbgtv://,nbtv://,habctv://,cztv://,grtv://,ksz://,sxrtv://,nmtv://,sjztv://,jntv://,r2048tv://,sohu://,yitv://,kknews://,zjtv://,hifuntv://,jspc://,kds,ahtv://,haoqu://,mgtv://,hntv://,bjtv://,fjtv://,sctv://,sctv2://,gxtv://,gxtv2://,hubtv://,nntv://,youtu://,jlntv://,wasu://,wasu-web://,jxntv://,yctv://,yctv2://,hztv://,dltv://,cstv://,wxtv://,whtv://,hktv://,cdtv://,lztv://,qqhr://,fztv://,kmtv://,nctv://,gstv://,nxtv://,myntv://,xwlive://,bisai8://,hrbtv://,hrbtv2://,yntv://,yntv2://,xmtv://,tvmcloud://,lntv://,tjiptv://,iqiyilb://,mgtvlb://,hfbtv://,snrtv://,gzstv://,yzntv://,sttv://,yiwu://,taizhou://,hljtv://,qqlive://,wxgd://,dztv://,iptv://,rzapp://,qhbtv://,jxntv1://,sztv://
