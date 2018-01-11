@@ -1,1 +1,1 @@
-com.tv.kuaisou,http://app.znds.com/update/fixedaddress/kuaisou_xiaobai.apk
+com.dangbei.haqu,http://app.znds.com/down/20180110/hqcd_2.0.1_dangbei.apk,12345678,1
