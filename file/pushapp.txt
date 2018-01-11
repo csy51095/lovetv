@@ -1,1 +1,1 @@
-com.dangbei.haqu,http://app.znds.com/down/20180110/hqcd_2.0.1_dangbei.apk,12345678,1
+com.dangbei.haqu,http://app.znds.com/down/20180110/hqcd_2.0.1_dangbei.apk,12345678,1,100000
