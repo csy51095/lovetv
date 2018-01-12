@@ -1,5 +1,5 @@
 tv-http://www.radio366.com/tv/images/cm/%s.m3u8
-aishang-http://125.88.39.18/live.aishang.ctlcdn.com/%s/encoder/0/playlist.m3u8
+aishang-http://125.88.39.20/live.aishang.ctlcdn.com/%s/encoder/0/playlist.m3u8
 pltv-http://112.50.233.148/PLTV/88888888/224/%s/index.m3u8
 ybs-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/%s/1.m3u8
 gitv-http://122.96.52.11:8080/gitv_live/%s.m3u8
