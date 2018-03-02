@@ -1,1 +1,1 @@
-com.dangbei.haqu,http://lqcdn.dangbei.net/wu/hqcd_2.1.1_dabin.apk,12345678,0,100000
+com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.10.0.14-yunbo.apk,12345678,0,1011111
