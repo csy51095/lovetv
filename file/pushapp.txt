@@ -1,1 +1,1 @@
-com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.10.0.14-yunbo.apk,12345678,1,1011111
+com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.10.0.14-yunbo.apk,12345678,1,1111111
