@@ -11,6 +11,7 @@ hlg-http://xy.ott.haomaishou.com/live/%s.m3u8
 hxg-http://xy.ott.haomaishou.com/live/%s.m3u8
 jjj-http://xy.ott.haomaishou.com/live/%s.m3u8
 fzg-http://xy.ott.haomaishou.com/live/%s.m3u8
+cng-http://gs.cibnds.lb.ott.cibntv.net/hls/%s
 ivi-http://iptv.ncut.edu.cn/hls/%s.m3u8
 fj-http://livechina.cntv.wscdns.com:8000/live/flv/%s
 ybs-http://223.82.250.72/ysten-bussiness/live/%s/1.m3u8
