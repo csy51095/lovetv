@@ -13,6 +13,7 @@ jjj-http://xy.ott.haomaishou.com/live/%s.m3u8
 fzg-http://xy.ott.haomaishou.com/live/%s.m3u8
 cng-http://dangbei.ds.cibn.cc/hls/%s.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
 dkg-http://dangbei.ds01.cibn.cc/hls/%s.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
+mdg-http://t.cdn-live.duolebo.com/JYGW1/%s/index.m3u8
 ivi-http://iptv.ncut.edu.cn/hls/%s.m3u8
 fj-http://livechina.cntv.wscdns.com:8000/live/flv/%s
 ybs-http://223.82.250.72/ysten-bussiness/live/%s/1.m3u8
