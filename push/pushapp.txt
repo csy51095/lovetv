@@ -1,2 +1,2 @@
-com.cibn.tv,http://lqcdn.dangbei.net/wb/yk4-5.11.1.1-yunbo.apk,178,0,1212111
-com.cibn.tv,https://raw.githubusercontent.com/ling47/lovetv/master/push/yk4.apk,23456,0,1212111
+com.cibn.tv,https://raw.githubusercontent.com/ling47/lovetv/master/push/yk4.apk,156,0,1212111
+com.moretv.android,https://raw.githubusercontent.com/ling47/lovetv/master/push/MoretvApp.apk,234,0,1212111
