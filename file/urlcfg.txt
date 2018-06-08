@@ -7,6 +7,7 @@ jyg-http://p.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 fsg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 klg-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
 byl-http://i.wheel.duolebo.com/live?p=%s&c=338914494&m3u8=true
+hxg-http://i.wheel.duolebo.com/live?p=%s&c=266757260&m3u8=true
 cng-http://dangbei.ds.cibn.cc/hls/%s.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
 dkg-http://dangbei.ds01.cibn.cc/hls/%s.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
 ivi-http://ivi.bupt.edu.cn/hls/%s.m3u8
